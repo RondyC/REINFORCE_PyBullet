@@ -30,17 +30,6 @@ REINFORCE — базовый полносеточный стохастическ
 
 ---
 
-## ⚙️ Установка
-
-# Установка Gym и зависимостей
-pip install --upgrade gym pybullet
-
-# Клонируем PyBullet-Gym и ставим его в editable-режиме
-git clone https://github.com/benelot/pybullet-gym.git
-cd pybullet-gym
-pip install -e .
-cd ..
-
 ## 🧪 Конфигурации экспериментов
 
 Сравнение четырех вариантов:
